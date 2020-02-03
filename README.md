@@ -1,4 +1,4 @@
-### Project status 
+### Project status [![Build status](https://ci.appveyor.com/api/projects/status/n3mht0igsjbm12b7?svg=true)](https://ci.appveyor.com/project/shvedcate/patternsusercreate)
 
 # Домашнее задание к занятию «2.3. Patterns»
 ## Задача № 2 - Тестовый режим
